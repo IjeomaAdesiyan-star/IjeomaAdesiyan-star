@@ -1,131 +1,151 @@
-<h1 align="center">Hi 👋, I'm Ijeoma Adesiyan</h1>
-
 <p align="center">
-<strong>Cloud & DevOps Engineer in Progress • Software Developer • Open Source Contributor</strong>
+  <img src="./header.svg" width="100%" alt="Ijeoma Adesiyan — Travel & Operations to Technology">
 </p>
 
-<p align="center">
-I'm building practical skills in cloud computing, DevOps, software development, and modern engineering workflows through hands-on projects, open-source contribution, and continuous learning.
-</p>
-
----
-
-### 🚀 What I'm Currently Doing
-
-- 🔭 Building and improving real-world engineering projects
-- 🌱 Learning **Cloud Computing, DevOps, Git, GitHub, Docker, Linux, Azure, and Terraform**
-- 🤝 Contributing to **Open Source Projects**
-- 🔄 Practicing **Git & GitHub workflows, CI/CD, testing, and automation**
-- ☁️ Developing my skills toward a career in **Cloud & DevOps Engineering**
-- 🎯 Building a professional portfolio through hands-on projects and Microsoft Applied Skills credentials
-
----
-
-### 🛠️ Technologies & Tools
+<h2 align="center">From Operations to Technology</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,docker,azure,terraform,vscode,html,css,javascript" />
+  <strong>Cloud & DevOps • Azure • Automation • Software Development • Open Source</strong>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 👋🏾 A Little About Me
 
-#### 🛒 LoopCart
+I'm a **Travel & Operations professional making a deliberate transition into technology**, bringing with me a strong foundation in problem-solving, workflow management, customer experience, and coordinating complex processes.
 
-A hands-on engineering workflow project focused on Git, GitHub, feature branches, pull requests, code review, CI/CD, testing, and deployment practices.
+Today, I'm channeling that experience into **Cloud, DevOps, automation, software development, and modern engineering workflows**.
 
-**Repository:**  
-https://github.com/IjeomaAdesiyan-star/loopcart
+I learn by building — taking what I study, applying it to real projects, breaking things, fixing them, and continuously improving.
 
----
+My goal is simple:
 
-#### 📌 PinPoint Pro
-
-An open-source project exploring an AI-provider-agnostic productivity workspace while providing practical experience with collaborative development and open-source contribution.
-
-**Repository:**  
-https://github.com/IjeomaAdesiyan-star/pinpointpro
+> **Use technology to turn complex problems into practical, scalable solutions.**
 
 ---
 
-### 🏆 Microsoft Applied Skills
+## 🚀 What I'm Building
 
-| Credential | Issuing Organization | Credential |
-|---|---|---|
-| **Accelerate AI-assisted development by using GitHub Copilot** | Microsoft | [View Credential](https://learn.microsoft.com/api/credentials/share/en-gb/IjeomaAdesiyan-0927/8CDB69966B8756FF?sharingId=9412CF278B3D8809) |
-| **Get started with Azure management tasks** | Microsoft | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/IjeomaAdesiyan-8330/932CEE171BF34EEC?sharingId=4D0EF2A9531D904B) |
-| **Secure storage for Azure Files and Azure Blob Storage** | Microsoft | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/IjeomaAdesiyan-8330/9A571C4691E468CF?sharingId=4D0EF2A9531D904B) |
+### 🛒 LoopCart
+
+A hands-on engineering workflow project built around real software development practices.
+
+**Focus areas:**
+- Git & GitHub
+- Feature branches
+- Pull requests
+- Code review
+- Testing
+- CI/CD
+- Deployment workflows
+
+🔗 [View LoopCart](https://github.com/IjeomaAdesiyan-star/loopcart)
 
 ---
 
-### 📚 Current Learning Focus
+### 📌 PinPoint Pro
 
-- ☁️ Cloud Computing
-- 🔧 DevOps & Engineering Workflows
-- 🔄 CI/CD & GitHub Actions
-- 🐳 Docker & Containerization
+An open-source contribution to a context-aware digital workspace and productivity environment.
+
+My contribution journey has given me practical experience working with an existing open-source codebase, branches, pull requests, contributors, and GitHub Actions.
+
+🔗 [View PinPoint Pro](https://github.com/IjeomaAdesiyan-star/pinpointpro)
+
+---
+
+## ☁️ Technology & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,docker,azure,terraform,vscode,html,css,js" />
+</p>
+
+### Current Focus
+
+- ☁️ Cloud Computing & Microsoft Azure
+- ⚙️ DevOps & CI/CD
+- 🔄 Git & GitHub workflows
+- 🐳 Docker & containerisation
 - 🐧 Linux
-- 🌐 Microsoft Azure
 - 🏗️ Infrastructure as Code with Terraform
-- 🐙 Git & GitHub
-- 🧪 Testing & Automation
-- 🌍 Open Source Contribution
+- 🐍 Python
+- 🤖 AI-assisted development
+- 🌐 Open-source contribution
 
 ---
 
-### 🎯 Goals
+## 🏆 Microsoft Applied Skills
 
-- 🚀 Build real-world cloud projects
-- 🤝 Contribute consistently to Open Source
-- 🏆 Continue earning relevant Cloud & DevOps credentials
-- 🐧 Strengthen Linux and networking fundamentals
-- 🔄 Develop practical CI/CD and automation skills
-- ☸️ Learn Kubernetes and container orchestration
-- 💻 Build a strong professional GitHub portfolio
-- 🎯 Grow into a **Cloud & DevOps Engineering role**
+| Credential | Verification |
+|---|---|
+| **Accelerate AI-assisted development by using GitHub Copilot** | [View Credential](https://learn.microsoft.com/api/credentials/share/en-gb/IjeomaAdesiyan-0927/8CDB69966B8756FF?sharingId=9412CF278B3D8809) |
+| **Get started with Azure management tasks** | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/IjeomaAdesiyan-8330/932CEE171BF34EEC?sharingId=4D0EF2A9531D904B) |
+| **Secure storage for Azure Files and Azure Blob Storage** | [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/IjeomaAdesiyan-8330/9A571C4691E468CF?sharingId=4D0EF2A9531D904B) |
 
 ---
 
-### 🔗 Connect With Me
+## 💡 What I Bring
+
+My technology journey is strengthened by the experience I already have outside of technology.
+
+- 🧩 **Problem-solving** — approaching challenges from both operational and technical perspectives
+- 🔄 **Workflow thinking** — understanding how processes connect from start to finish
+- 🤝 **Stakeholder & customer experience** — communicating clearly and working with people
+- 📋 **Operations experience** — coordinating moving parts and managing complex processes
+- ☁️ **Cloud & DevOps skills** — building practical technical capability through hands-on work
+- 🛠️ **Learning by doing** — turning lessons into projects rather than stopping at theory
+
+---
+
+## 🔭 What's Next?
+
+I'm continuing to build deeper capability in:
+
+**Cloud → DevOps → Automation → Infrastructure → Software → AI**
+
+The goal isn't simply to collect technologies.
+
+It's to understand **how they work together to solve real problems.**
+
+---
+
+## ✍🏾 My Approach
+
+**Learn → Build → Experiment → Contribute → Repeat.**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/IjeomaAdesiyan-star">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-<a href="https://www.linkedin.com/in/ijeoma-adesiyan-72568b68/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/ijeoma-adesiyan-72568b68/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/ijeoma_omolade_9cf04c9ef3">
+    <img src="https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://github.com/IjeomaAdesiyan-star">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IjeomaAdesiyan-star&show_icons=true&theme=default"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IjeomaAdesiyan-star&layout=compact&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IjeomaAdesiyan-star&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=IjeomaAdesiyan-star"/>
+  <img src="https://streak-stats.demolab.com?user=IjeomaAdesiyan-star&hide_border=true" />
 </p>
 
 ---
 
-### 🌱 My Journey
-
-- ✅ Building practical Git & GitHub skills
-- ✅ Working with collaborative engineering workflows
-- ✅ Contributing to Open Source
-- ✅ Building hands-on cloud projects
-- ✅ Earning Microsoft Applied Skills credentials
-- 🔄 Developing CI/CD and automation skills
-- 🔄 Expanding my Azure and DevOps knowledge
-- 🎯 Working toward a Cloud & DevOps Engineering career
-
----
+<p align="center">
+  <strong>Building the bridge between operations and technology.</strong>
+</p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+  ☁️ ⚙️ 💻 🚀
 </p>

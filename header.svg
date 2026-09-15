@@ -1,0 +1,113 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1D35"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="wave1" x1="0" y1="300" x2="1200" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <linearGradient id="wave2" x1="0" y1="330" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+
+  <ellipse cx="930" cy="105" rx="260" ry="150" fill="#2563EB" fill-opacity="0.08" filter="url(#glow)"/>
+  <ellipse cx="1050" cy="250" rx="220" ry="120" fill="#7C3AED" fill-opacity="0.07" filter="url(#glow)"/>
+
+  <g stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.5">
+    <path d="M850 75L940 125L1030 80L1120 145"/>
+    <path d="M940 125L900 205L1010 235L1120 145"/>
+    <path d="M1030 80L1010 235"/>
+  </g>
+
+  <g fill="#67E8F9">
+    <circle cx="850" cy="75" r="4"/>
+    <circle cx="940" cy="125" r="5"/>
+    <circle cx="1030" cy="80" r="4"/>
+    <circle cx="1120" cy="145" r="5"/>
+    <circle cx="900" cy="205" r="4"/>
+    <circle cx="1010" cy="235" r="5"/>
+  </g>
+
+  <path
+    d="M0 292 C180 225 290 325 455 270 C620 215 735 105 900 160 C1035 205 1100 250 1200 185"
+    stroke="url(#wave1)"
+    stroke-width="18"
+    stroke-linecap="round"
+    opacity="0.16"
+    filter="url(#glow)"
+  />
+
+  <path
+    d="M0 292 C180 225 290 325 455 270 C620 215 735 105 900 160 C1035 205 1100 250 1200 185"
+    stroke="url(#wave1)"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+  <path
+    d="M0 325 C170 270 300 350 470 300 C650 245 760 145 920 195 C1050 235 1110 275 1200 225"
+    stroke="url(#wave2)"
+    stroke-width="2"
+    stroke-linecap="round"
+    opacity="0.65"
+  />
+
+  <text x="80" y="125"
+    fill="white"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="52"
+    font-weight="700"
+    letter-spacing="4">
+    IJEOMA ADESIYAN
+  </text>
+
+  <rect x="82" y="150" width="90" height="4" rx="2" fill="#38BDF8"/>
+
+  <text x="80" y="205"
+    fill="#E2E8F0"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="24"
+    font-weight="500"
+    letter-spacing="1">
+    TRAVEL &amp; OPERATIONS  →  TECHNOLOGY
+  </text>
+
+  <text x="80" y="245"
+    fill="#94A3B8"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="17"
+    letter-spacing="1.5">
+    CLOUD • DEVOPS • AZURE • AUTOMATION • SOFTWARE
+  </text>
+
+  <text x="80" y="286"
+    fill="#64748B"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="14"
+    letter-spacing="2">
+    LEARN → BUILD → EXPERIMENT → CONTRIBUTE → REPEAT
+  </text>
+
+  <circle cx="1120" cy="55" r="5" fill="#38BDF8"/>
+  <circle cx="1140" cy="55" r="5" fill="#818CF8"/>
+  <circle cx="1160" cy="55" r="5" fill="#A78BFA"/>
+</svg>
