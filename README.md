@@ -136,9 +136,6 @@ It's to understand **how they work together to solve real problems.**
   <img src="https://github-readme-stats.vercel.app/api?username=IjeomaAdesiyan-star&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IjeomaAdesiyan-star&hide_border=true" />
-</p>
 
 ---
 
